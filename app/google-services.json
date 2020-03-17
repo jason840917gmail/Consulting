@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774749376363",
+    "firebase_url": "https://consulting-15c02.firebaseio.com",
+    "project_id": "consulting-15c02",
+    "storage_bucket": "consulting-15c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774749376363:android:7d239b2b67e28e5741862e",
+        "android_client_info": {
+          "package_name": "com.jason840917.consulting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774749376363-maklll0ngiqfjmvttcu84vdkau2hl9qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQM88TzqV240ggVE0A34bLQI3i4XQ0248"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774749376363-maklll0ngiqfjmvttcu84vdkau2hl9qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
